@@ -3,6 +3,8 @@ We illustrate how to test the version of Bell´s inequality proposed by David Me
 
 See
 
+Mermin, N.D.: Bringing home the atomic world: Quantum mysteries for anybody. American Journal of Physics 49, 940-943 (1981).
+
 https://www.physicsforums.com/insights/answering-mermins-challenge-with-wilczeks-challenge/
 
 See this Youtube video by Brian Greene
