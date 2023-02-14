@@ -1,5 +1,13 @@
 # Testing Bell´s Inequality with Qiskit
-We illustrate how to test the version of the Bell inequality proposed by David Mermin using Qiskit
+We illustrate how to test the version of Bell´s inequality proposed by David Mermin using Qiskit
+
+See
+
+https://www.physicsforums.com/insights/answering-mermins-challenge-with-wilczeks-challenge/
+
+See this Youtube video by Brian Greene
+
+https://www.youtube.com/watch?v=UZiwtfrisTQ
 
 ```
 EXPERIMENTO EPR vs MECANICA CUANTICA
