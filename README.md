@@ -1,4 +1,4 @@
-# Bell-Inequality-in-Qiskit
+# Testing Bell´s Inequality with Qiskit
 We illustrate how to test the version of the Bell inequality proposed by David Mermin using Qiskit
 
 ```
