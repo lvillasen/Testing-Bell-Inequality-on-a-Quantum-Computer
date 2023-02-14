@@ -1,7 +1,7 @@
 # Bell-Inequality-in-Qiskit
 We illustrate how to test the version of the Bell inequality proposed by David Mermin using Qiskit
 
-
+```
 EXPERIMENTO EPR vs MECANICA CUANTICA
 
 Premio Nobel de Física 2022 al francés Alain Aspect, al estadounidense John Clauser y al austriaco Anton Zeilinger
@@ -33,6 +33,7 @@ Plan A	 Plan B	 Correlaciones			 		Fracción Anticorrelacionados
 110 	 001 	 [0, 0, 1, 0, 0, 1, 1, 1, 0] 			 5 / 9
 111 	 000 	 [0, 0, 0, 0, 0, 0, 0, 0, 0] 			 9 / 9
 
+```
 De acuerdo con EPR la fracción de anticorrelaciones debe ser > 5/9 (la desigualdad de Bell es AntiCorr(A,B) > 56%) pero el experimento arroja 50%
 
 Es decir que la MC viola la desigualdad de Bell y por lo tanto la visión de EPR no coincide con el experimento (la MC es no local)
