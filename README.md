@@ -28,7 +28,7 @@ Assuming the spins are determined (by hiddend variables) prior to the measuremen
 
 Layout A	Layout B	 Anti-Correlations		 Fraction of Anti-Correlated Measurements
 
-123	        123	 [A1B1,A1B2,A1B3,A2B1,A2B2,A2B3,A3B1,A3B2,A3B3]			 
+123	      123	 [A1B1,A1B2,A1B3,A2B1,A2B2,A2B3,A3B1,A3B2,A3B3]			 
 
 000 	      111 	 [1, 1, 1, 1, 1, 1, 1, 1, 1] 			 9 / 9
 001 	      110 	 [1, 1, 0, 1, 1, 0, 0, 0, 1] 			 5 / 9
