@@ -26,7 +26,7 @@ A1B1 means we measure along axis1 for particle A and axis 1 for particle B, A1B2
 Assuming the spins are determined (by hidden variables) prior to the measurements, the EPR prediction would be
 
 
-A             B	        Anti-Correlations		 Fraction of Anti-Correlated Measurements
+A             B	          Anti-Correlations		 Fraction of Anti-Correlated Measurements
 
 123	      123	 [A1B1,A1B2,A1B3,A2B1,A2B2,A2B3,A3B1,A3B2,A3B3]			 
 
