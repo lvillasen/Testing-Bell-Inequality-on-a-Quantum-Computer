@@ -1,7 +1,7 @@
 # Testing Bell´s Inequality with Qiskit
 We illustrate how to test the version of Bell´s inequality proposed by David Mermin using Qiskit.
 
-See Brian Greene's youtube video for a clear explanation of this version of Bell's inequality.
+See the references for a clear explanation of this version of Bell's inequality.
 
 
 ```
