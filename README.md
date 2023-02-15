@@ -1,44 +1,49 @@
 # Testing Bell´s Inequality with Qiskit
-We illustrate how to test the version of Bell´s inequality proposed by David Mermin using Qiskit
+We illustrate how to test the version of Bell´s inequality proposed by David Mermin using Qiskit.
+
+See Brian Greene's youtube video for a clear explanation of this version of Bell's inequality.
 
 
 ```
-EXPERIMENTO EPR vs MECANICA CUANTICA
+EPR vs Quantum MEChANICs
 
-Premio Nobel de Física 2022 al francés Alain Aspect, al estadounidense John Clauser y al austriaco Anton Zeilinger
+The 2022 Nobel Prize in Physics was awarded to Alain Aspect, John Clauser and Anton Zeilinger
+"for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science"
 
-Medimos el espín de las partículas A y B en 3 ejes que estám de 0 (Eje 1), 120 (Eje 2) y 240 grados (Eje 3)
-
-
-
-El espín medido 0 corresponde a spin up y el 1 a spin down a lo largo del eje respectivo 
-
-
-Medición A <---------------------------- Par A B entrelazados con S = 0 -------------------> Medición B
+We measure the spin of two entangled particles A and B which have total spin equal to zero along 3 axes rotated 0 (Axis 1), 120 (Axis 2) y 240 degrees (Axis 3) on the XZ plane
 
 
 
-Medimos el espín A y B en ángulos de 0, 120 0 240 grados
+A 0 corresponds to spin up and 1 to spin down along the particular axis used for that measurement  
 
 
-Plan A	 Plan B	 Anti-Correlaciones		 		Fracción Anticorrelacionados
+Measurement A <---------------------------- 2 spin 1/2 particles with total S = 0 -------------------> Measurement B
 
-123	     123	 [A1B1,A1B2,A1B3,A2B1,A2B2,A2B3,A3B1,A3B2,A3B3]			 
 
-000 	   111 	 [1, 1, 1, 1, 1, 1, 1, 1, 1] 			 9 / 9
-001 	   110 	 [1, 1, 0, 1, 1, 0, 0, 0, 1] 			 5 / 9
-010 	   101 	 [1, 0, 1, 0, 1, 0, 1, 0, 1] 			 5 / 9
-011 	   100 	 [1, 0, 0, 0, 1, 1, 0, 1, 1] 			 5 / 9
-100 	   011 	 [1, 0, 0, 0, 1, 1, 0, 1, 1] 			 5 / 9
-101 	   010 	 [1, 0, 1, 0, 1, 0, 1, 0, 1] 			 5 / 9
-110 	   001 	 [1, 1, 0, 1, 1, 0, 0, 0, 1] 			 5 / 9
-111 	   000 	 [1, 1, 1, 1, 1, 1, 1, 1, 1] 			 9 / 9
+
+A1B1 means we measure along axis1 for particle A and axis 1 for particle B, A1B2 means we measure along axis1 for particle A and axis 2 for particle B and so on.
+
+Assuming the spins are determined (by hiddend variables) prior to the measurements, the EPR prediction would be
+
+
+Layout A	 Layout B	 Anti-Correlations		 		Fraction of Anti-Correlated Measurements
+
+123	        123	 [A1B1,A1B2,A1B3,A2B1,A2B2,A2B3,A3B1,A3B2,A3B3]			 
+
+000 	      111 	 [1, 1, 1, 1, 1, 1, 1, 1, 1] 			 9 / 9
+001 	      110 	 [1, 1, 0, 1, 1, 0, 0, 0, 1] 			 5 / 9
+010 	      101 	 [1, 0, 1, 0, 1, 0, 1, 0, 1] 			 5 / 9
+011 	      100 	 [1, 0, 0, 0, 1, 1, 0, 1, 1] 			 5 / 9
+100 	      011 	 [1, 0, 0, 0, 1, 1, 0, 1, 1] 			 5 / 9
+101 	      010 	 [1, 0, 1, 0, 1, 0, 1, 0, 1] 			 5 / 9
+110 	      001 	 [1, 1, 0, 1, 1, 0, 0, 0, 1] 			 5 / 9
+111 	      000 	 [1, 1, 1, 1, 1, 1, 1, 1, 1] 			 9 / 9
 
 
 ```
-De acuerdo con EPR la fracción de anticorrelaciones debe ser > 5/9 (la desigualdad de Bell es AntiCorr(A,B) > 56%) pero el experimento arroja 50%
+According to EPR the fraction of anti-correlated measurements is > 5/9 (Bell's inequality: Anti-Corr(A,B) > 56%) but the experiments produce 50% anti-correlated measurements.
 
-Es decir que la MC viola la desigualdad de Bell y por lo tanto la visión de EPR no coincide con el experimento (la MC es no local)
+Quantum Mechanics violates Bell's inequality and therefore the Einstein-Podolsky-Rosen argument is not is not valid and Quantum Mechanics is a non-local theory.
 
 
 **References**
