@@ -5,7 +5,7 @@ See Brian Greene's youtube video for a clear explanation of this version of Bell
 
 
 ```
-EPR vs Quantum MECHANICS
+                              EPR vs Quantum MECHANICS
 
 The 2022 Nobel Prize in Physics was awarded to Alain Aspect, John Clauser and Anton Zeilinger
 "for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science"
