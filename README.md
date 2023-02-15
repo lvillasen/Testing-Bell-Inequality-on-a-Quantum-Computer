@@ -5,7 +5,7 @@ References
 
 Mermin, N.D.: Bringing home the atomic world: Quantum mysteries for anybody. American Journal of Physics 49, 940-943 (1981).
 
-Answering Mermin’s Challenge with the Relativity Principle by Mark Stuckey https://www.physicsforums.com/insights/answering-mermins-challenge-with-wilczeks-challenge/https://www.physicsforums.com/insights/answering-mermins-challenge-with-wilczeks-challenge/
+Answering Mermin’s Challenge with the Relativity Principle by Mark Stuckey https://www.physicsforums.com/insights/answering-mermins-challenge-with-wilczeks-challenge
 
 Youtube video by Brian Greene: https://www.youtube.com/watch?v=UZiwtfrisTQ
 
