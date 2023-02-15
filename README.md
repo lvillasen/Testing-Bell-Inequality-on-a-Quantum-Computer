@@ -1,13 +1,6 @@
 # Testing Bell´s Inequality with Qiskit
 We illustrate how to test the version of Bell´s inequality proposed by David Mermin using Qiskit
 
-References
-
-Mermin, N.D.: Bringing home the atomic world: Quantum mysteries for anybody. American Journal of Physics 49, 940-943 (1981).
-
-Answering Mermin’s Challenge with the Relativity Principle by Mark Stuckey https://www.physicsforums.com/insights/answering-mermins-challenge-with-wilczeks-challenge
-
-Youtube video by Brian Greene: https://www.youtube.com/watch?v=UZiwtfrisTQ
 
 ```
 EXPERIMENTO EPR vs MECANICA CUANTICA
@@ -46,4 +39,13 @@ Plan A	 Plan B	 Anti-Correlaciones		 		Fracción Anticorrelacionados
 De acuerdo con EPR la fracción de anticorrelaciones debe ser > 5/9 (la desigualdad de Bell es AntiCorr(A,B) > 56%) pero el experimento arroja 50%
 
 Es decir que la MC viola la desigualdad de Bell y por lo tanto la visión de EPR no coincide con el experimento (la MC es no local)
+
+
+**References**
+
+Mermin, N.D.: Bringing home the atomic world: Quantum mysteries for anybody. American Journal of Physics 49, 940-943 (1981).
+
+Answering Mermin’s Challenge with the Relativity Principle by Mark Stuckey https://www.physicsforums.com/insights/answering-mermins-challenge-with-wilczeks-challenge
+
+Youtube video by Brian Greene: https://www.youtube.com/watch?v=UZiwtfrisTQ
 
