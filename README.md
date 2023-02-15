@@ -23,7 +23,7 @@ Measurement A <---------------------------- 2 spin 1/2 particles with total S = 
 
 A1B1 means we measure along axis1 for particle A and axis 1 for particle B, A1B2 means we measure along axis1 for particle A and axis 2 for particle B and so on.
 
-Assuming the spins are determined (by hiddend variables) prior to the measurements, the EPR prediction would be
+Assuming the spins are determined (by hidden variables) prior to the measurements, the EPR prediction would be
 
 
 Layout A Layout B	 Anti-Correlations		 Fraction of Anti-Correlated Measurements
