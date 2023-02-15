@@ -43,7 +43,7 @@ A             B	          Anti-Correlations		 Fraction of Anti-Correlated Measur
 ```
 According to EPR the fraction of anti-correlated measurements is > 5/9 (Bell's inequality: Anti-Corr(A,B) > 56%) but the experiments produce 50% anti-correlated measurements.
 
-Quantum Mechanics violates Bell's inequality and therefore the Einstein-Podolsky-Rosen argument is not is not valid and Quantum Mechanics is a non-local theory.
+Quantum Mechanics violates Bell's inequality and therefore the Einstein-Podolsky-Rosen argument is not valid and Quantum Mechanics is a non-local theory.
 
 
 **References**
