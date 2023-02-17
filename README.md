@@ -1,5 +1,6 @@
 # Testing Bell´s Inequality with Qiskit
 We illustrate how to test the version of Bell´s inequality proposed by David Mermin using Qiskit.
+We do it on an ideal simulated quantum computer, a simulated quantum computer with noise and a real quantum computer from the IBM QuantumExperience.
 
 See the references for a clear explanation of this version of Bell's inequality.
 
