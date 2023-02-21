@@ -11,7 +11,7 @@ See the references for a clear explanation of this version of Bell's inequality.
 The 2022 Nobel Prize in Physics was awarded to Alain Aspect, John Clauser and Anton Zeilinger
 "for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science"
 
-We measure the spin of two entangled particles A and B which have total spin equal to zero along 3 axes rotated 0 (Axis 1), 120 (Axis 2) y 240 degrees (Axis 3) on the XZ plane
+We model, using a quantum computer, the measurement of the spin projections of two spin-1/2 entangled particles A and B which have total spin equal to zero along 3 axes rotated 0 (Axis 1), 120 (Axis 2) y 240 degrees (Axis 3) on the XZ plane
 
 
 
